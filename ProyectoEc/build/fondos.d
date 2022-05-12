@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 fondos.o: /home/reki25/ProyectoEc/ProyectoEc/source/fondos.c \
+=======
+fondos.o: /home/julenson/ProyectoEc/ProyectoEc/source/fondos.c \
+>>>>>>> ad8993dd6311925d1b55656bb400d1c2f7dc46ad
  /opt/devkitpro/libnds/include/nds.h \
  /opt/devkitpro/libnds/include/nds/libversion.h \
  /opt/devkitpro/libnds/include/nds/ndstypes.h \
@@ -59,6 +63,7 @@ fondos.o: /home/reki25/ProyectoEc/ProyectoEc/source/fondos.c \
  /opt/devkitpro/libnds/include/nds/arm9/video.h \
  /opt/devkitpro/libnds/include/nds/arm9/videoGL.h \
  /opt/devkitpro/libnds/include/nds/arm9/nand.h \
+<<<<<<< HEAD
  /home/reki25/ProyectoEc/ProyectoEc/include/fondos.h \
  /home/reki25/ProyectoEc/ProyectoEc/include/graficos.h \
  /home/reki25/ProyectoEc/ProyectoEc/build/Puerta.h \
@@ -68,6 +73,17 @@ fondos.o: /home/reki25/ProyectoEc/ProyectoEc/source/fondos.c \
  /home/reki25/ProyectoEc/ProyectoEc/build/Victoria.h \
  /home/reki25/ProyectoEc/ProyectoEc/build/Inicio.h \
  /home/reki25/ProyectoEc/ProyectoEc/build/Seleccion.h
+=======
+ /home/julenson/ProyectoEc/ProyectoEc/include/fondos.h \
+ /home/julenson/ProyectoEc/ProyectoEc/include/graficos.h \
+ /home/julenson/ProyectoEc/ProyectoEc/build/Puerta.h \
+ /home/julenson/ProyectoEc/ProyectoEc/build/Derrota.h \
+ /home/julenson/ProyectoEc/ProyectoEc/build/PuertaAbierta.h \
+ /home/julenson/ProyectoEc/ProyectoEc/build/FondoPelea.h \
+ /home/julenson/ProyectoEc/ProyectoEc/build/Victoria.h \
+ /home/julenson/ProyectoEc/ProyectoEc/build/Inicio.h \
+ /home/julenson/ProyectoEc/ProyectoEc/build/Seleccion.h
+>>>>>>> ad8993dd6311925d1b55656bb400d1c2f7dc46ad
 /opt/devkitpro/libnds/include/nds.h:
 /opt/devkitpro/libnds/include/nds/libversion.h:
 /opt/devkitpro/libnds/include/nds/ndstypes.h:
@@ -128,6 +144,7 @@ fondos.o: /home/reki25/ProyectoEc/ProyectoEc/source/fondos.c \
 /opt/devkitpro/libnds/include/nds/arm9/video.h:
 /opt/devkitpro/libnds/include/nds/arm9/videoGL.h:
 /opt/devkitpro/libnds/include/nds/arm9/nand.h:
+<<<<<<< HEAD
 /home/reki25/ProyectoEc/ProyectoEc/include/fondos.h:
 /home/reki25/ProyectoEc/ProyectoEc/include/graficos.h:
 /home/reki25/ProyectoEc/ProyectoEc/build/Puerta.h:
@@ -137,3 +154,14 @@ fondos.o: /home/reki25/ProyectoEc/ProyectoEc/source/fondos.c \
 /home/reki25/ProyectoEc/ProyectoEc/build/Victoria.h:
 /home/reki25/ProyectoEc/ProyectoEc/build/Inicio.h:
 /home/reki25/ProyectoEc/ProyectoEc/build/Seleccion.h:
+=======
+/home/julenson/ProyectoEc/ProyectoEc/include/fondos.h:
+/home/julenson/ProyectoEc/ProyectoEc/include/graficos.h:
+/home/julenson/ProyectoEc/ProyectoEc/build/Puerta.h:
+/home/julenson/ProyectoEc/ProyectoEc/build/Derrota.h:
+/home/julenson/ProyectoEc/ProyectoEc/build/PuertaAbierta.h:
+/home/julenson/ProyectoEc/ProyectoEc/build/FondoPelea.h:
+/home/julenson/ProyectoEc/ProyectoEc/build/Victoria.h:
+/home/julenson/ProyectoEc/ProyectoEc/build/Inicio.h:
+/home/julenson/ProyectoEc/ProyectoEc/build/Seleccion.h:
+>>>>>>> ad8993dd6311925d1b55656bb400d1c2f7dc46ad

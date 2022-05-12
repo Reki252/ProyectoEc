@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 juego.o: /home/reki25/ProyectoEc/ProyectoEc/source/juego.c \
+=======
+juego.o: /home/julenson/ProyectoEc/ProyectoEc/source/juego.c \
+>>>>>>> ad8993dd6311925d1b55656bb400d1c2f7dc46ad
  /opt/devkitpro/libnds/include/nds.h \
  /opt/devkitpro/libnds/include/nds/libversion.h \
  /opt/devkitpro/libnds/include/nds/ndstypes.h \
@@ -59,11 +63,19 @@ juego.o: /home/reki25/ProyectoEc/ProyectoEc/source/juego.c \
  /opt/devkitpro/libnds/include/nds/arm9/video.h \
  /opt/devkitpro/libnds/include/nds/arm9/videoGL.h \
  /opt/devkitpro/libnds/include/nds/arm9/nand.h \
+<<<<<<< HEAD
  /home/reki25/ProyectoEc/ProyectoEc/include/definiciones.h \
  /home/reki25/ProyectoEc/ProyectoEc/include/perifericos.h \
  /home/reki25/ProyectoEc/ProyectoEc/include/rutinasAtencion.h \
  /home/reki25/ProyectoEc/ProyectoEc/include/fondos.h \
  /home/reki25/ProyectoEc/ProyectoEc/include/EstadoSeleccion.h
+=======
+ /home/julenson/ProyectoEc/ProyectoEc/include/definiciones.h \
+ /home/julenson/ProyectoEc/ProyectoEc/include/perifericos.h \
+ /home/julenson/ProyectoEc/ProyectoEc/include/rutinasAtencion.h \
+ /home/julenson/ProyectoEc/ProyectoEc/include/fondos.h \
+ /home/julenson/ProyectoEc/ProyectoEc/include/EstadoSeleccion.h
+>>>>>>> ad8993dd6311925d1b55656bb400d1c2f7dc46ad
 /opt/devkitpro/libnds/include/nds.h:
 /opt/devkitpro/libnds/include/nds/libversion.h:
 /opt/devkitpro/libnds/include/nds/ndstypes.h:
@@ -124,8 +136,16 @@ juego.o: /home/reki25/ProyectoEc/ProyectoEc/source/juego.c \
 /opt/devkitpro/libnds/include/nds/arm9/video.h:
 /opt/devkitpro/libnds/include/nds/arm9/videoGL.h:
 /opt/devkitpro/libnds/include/nds/arm9/nand.h:
+<<<<<<< HEAD
 /home/reki25/ProyectoEc/ProyectoEc/include/definiciones.h:
 /home/reki25/ProyectoEc/ProyectoEc/include/perifericos.h:
 /home/reki25/ProyectoEc/ProyectoEc/include/rutinasAtencion.h:
 /home/reki25/ProyectoEc/ProyectoEc/include/fondos.h:
 /home/reki25/ProyectoEc/ProyectoEc/include/EstadoSeleccion.h:
+=======
+/home/julenson/ProyectoEc/ProyectoEc/include/definiciones.h:
+/home/julenson/ProyectoEc/ProyectoEc/include/perifericos.h:
+/home/julenson/ProyectoEc/ProyectoEc/include/rutinasAtencion.h:
+/home/julenson/ProyectoEc/ProyectoEc/include/fondos.h:
+/home/julenson/ProyectoEc/ProyectoEc/include/EstadoSeleccion.h:
+>>>>>>> ad8993dd6311925d1b55656bb400d1c2f7dc46ad

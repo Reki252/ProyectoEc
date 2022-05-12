@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 graficos.o: /home/reki25/ProyectoEc/ProyectoEc/source/graficos.c \
+=======
+graficos.o: /home/julenson/ProyectoEc/ProyectoEc/source/graficos.c \
+>>>>>>> ad8993dd6311925d1b55656bb400d1c2f7dc46ad
  /opt/devkitpro/libnds/include/nds.h \
  /opt/devkitpro/libnds/include/nds/libversion.h \
  /opt/devkitpro/libnds/include/nds/ndstypes.h \
@@ -59,8 +63,13 @@ graficos.o: /home/reki25/ProyectoEc/ProyectoEc/source/graficos.c \
  /opt/devkitpro/libnds/include/nds/arm9/video.h \
  /opt/devkitpro/libnds/include/nds/arm9/videoGL.h \
  /opt/devkitpro/libnds/include/nds/arm9/nand.h \
+<<<<<<< HEAD
  /home/reki25/ProyectoEc/ProyectoEc/include/graficos.h \
  /home/reki25/ProyectoEc/ProyectoEc/include/sprites.h
+=======
+ /home/julenson/ProyectoEc/ProyectoEc/include/graficos.h \
+ /home/julenson/ProyectoEc/ProyectoEc/include/sprites.h
+>>>>>>> ad8993dd6311925d1b55656bb400d1c2f7dc46ad
 /opt/devkitpro/libnds/include/nds.h:
 /opt/devkitpro/libnds/include/nds/libversion.h:
 /opt/devkitpro/libnds/include/nds/ndstypes.h:
@@ -121,5 +130,10 @@ graficos.o: /home/reki25/ProyectoEc/ProyectoEc/source/graficos.c \
 /opt/devkitpro/libnds/include/nds/arm9/video.h:
 /opt/devkitpro/libnds/include/nds/arm9/videoGL.h:
 /opt/devkitpro/libnds/include/nds/arm9/nand.h:
+<<<<<<< HEAD
 /home/reki25/ProyectoEc/ProyectoEc/include/graficos.h:
 /home/reki25/ProyectoEc/ProyectoEc/include/sprites.h:
+=======
+/home/julenson/ProyectoEc/ProyectoEc/include/graficos.h:
+/home/julenson/ProyectoEc/ProyectoEc/include/sprites.h:
+>>>>>>> ad8993dd6311925d1b55656bb400d1c2f7dc46ad

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 perifericos.o: /home/reki25/ProyectoEc/ProyectoEc/source/perifericos.c \
+=======
+perifericos.o: /home/julenson/ProyectoEc/ProyectoEc/source/perifericos.c \
+>>>>>>> ad8993dd6311925d1b55656bb400d1c2f7dc46ad
  /opt/devkitpro/libnds/include/nds.h \
  /opt/devkitpro/libnds/include/nds/libversion.h \
  /opt/devkitpro/libnds/include/nds/ndstypes.h \
@@ -59,7 +63,11 @@ perifericos.o: /home/reki25/ProyectoEc/ProyectoEc/source/perifericos.c \
  /opt/devkitpro/libnds/include/nds/arm9/video.h \
  /opt/devkitpro/libnds/include/nds/arm9/videoGL.h \
  /opt/devkitpro/libnds/include/nds/arm9/nand.h \
+<<<<<<< HEAD
  /home/reki25/ProyectoEc/ProyectoEc/include/definiciones.h
+=======
+ /home/julenson/ProyectoEc/ProyectoEc/include/definiciones.h
+>>>>>>> ad8993dd6311925d1b55656bb400d1c2f7dc46ad
 /opt/devkitpro/libnds/include/nds.h:
 /opt/devkitpro/libnds/include/nds/libversion.h:
 /opt/devkitpro/libnds/include/nds/ndstypes.h:
@@ -120,4 +128,8 @@ perifericos.o: /home/reki25/ProyectoEc/ProyectoEc/source/perifericos.c \
 /opt/devkitpro/libnds/include/nds/arm9/video.h:
 /opt/devkitpro/libnds/include/nds/arm9/videoGL.h:
 /opt/devkitpro/libnds/include/nds/arm9/nand.h:
+<<<<<<< HEAD
 /home/reki25/ProyectoEc/ProyectoEc/include/definiciones.h:
+=======
+/home/julenson/ProyectoEc/ProyectoEc/include/definiciones.h:
+>>>>>>> ad8993dd6311925d1b55656bb400d1c2f7dc46ad
